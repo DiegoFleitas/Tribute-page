@@ -1,3 +1,0 @@
-# Tribute-page
-
-for FreeCodeCamp
